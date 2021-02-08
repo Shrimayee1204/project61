@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+#welcome {
+background-image: linear-gradient(blue, purple);
+height:50%;
+}
+
+#image1 {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+
+.menu{
+float:right;
+color:white;
+}
+   
+.links
+{ float: left; 
+    padding-top: 5px; 
+    padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family:fantasy; font-size: 20px }
+#contact{
+background:white;
+}
+#myimage{
+border-radius:50%;
+margin-top:20px;  
+width:400px;  
+}
+.name{
+font-family:'Dancing Script', cursive;
+color:white;
+    font-size:30px
+}
